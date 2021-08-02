@@ -1,0 +1,43 @@
+.App{
+  display: flex;
+  justify-content: space-between;
+}
+
+.appTxt{
+  text-align: center;
+  width: 100%;
+  background-color: #2678bc;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.appTxt h1{
+  font-size: 5em;
+}
+
+.appTxt p{
+  font-size: 1.5em;
+}
+
+.appTxt a{
+  margin-top: 2em;
+  padding: 1em;
+  text-decoration: none;
+  border-radius: 0.5em;
+  text-align: center;
+  width: 10em;
+  background-color: #ffffff;
+  color: #000000;
+  font-weight: bolder;
+  font-size: 1.5em;
+  transition: all 500ms ease-in-out;
+}
+
+.appTxt a:hover{
+  background: none;
+  border: 2px solid #ff4a00;
+  color: #ffffff; 
+}
