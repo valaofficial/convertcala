@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/convertcala/static/css/main.0be8d511.chunk.css",
+    "main.js": "/convertcala/static/js/main.e7c2394c.chunk.js",
+    "main.js.map": "/convertcala/static/js/main.e7c2394c.chunk.js.map",
+    "runtime-main.js": "/convertcala/static/js/runtime-main.d4fb8b81.js",
+    "runtime-main.js.map": "/convertcala/static/js/runtime-main.d4fb8b81.js.map",
+    "static/js/2.09e1d1cb.chunk.js": "/convertcala/static/js/2.09e1d1cb.chunk.js",
+    "static/js/2.09e1d1cb.chunk.js.map": "/convertcala/static/js/2.09e1d1cb.chunk.js.map",
+    "index.html": "/convertcala/index.html",
+    "precache-manifest.22803be482c6282acaa8dd7ffc25c4fb.js": "/convertcala/precache-manifest.22803be482c6282acaa8dd7ffc25c4fb.js",
+    "service-worker.js": "/convertcala/service-worker.js",
+    "static/css/main.0be8d511.chunk.css.map": "/convertcala/static/css/main.0be8d511.chunk.css.map",
+    "static/js/2.09e1d1cb.chunk.js.LICENSE.txt": "/convertcala/static/js/2.09e1d1cb.chunk.js.LICENSE.txt",
+    "static/media/loading.png": "/convertcala/static/media/loading.d6eca7fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4fb8b81.js",
+    "static/js/2.09e1d1cb.chunk.js",
+    "static/css/main.0be8d511.chunk.css",
+    "static/js/main.e7c2394c.chunk.js"
+  ]
+}
